@@ -4,19 +4,19 @@ link website : https://github.com/nabilafirdausi28/rumah-makan-sederhana-156-158
 Website ini merupakan website sederhana yang digunakan untuk memesan makanan melalui website dari sebuah rumah makan sederhana. Website ini juga bisa digunakan untuk platfrom promosi dari Rumah Makan Sederhana.
 
 Struktur HTML
-index.html
+1. index.html
 
 Deskripsi:
 
 Halaman ini merupakan halaman beranda yang akan menampilkan awal atau home dari sebuah website. Di dalam halaman ini juga terdapat tombol yang akan mengarahkan pengguna ke daftar menu.
 
 Fitur:
-
-Navigasi dengan logo "RM Sederhana"
-Hero section dengan gambar dan deskripsi
-Tombol "Lihat Menu" untuk navigasi ke halaman menu
-Responsive design (mobile & desktop)
-about.html
+- Navigasi dengan logo "RM Sederhana"
+- Hero section dengan gambar dan deskripsi
+- Tombol "Lihat Menu" untuk navigasi ke halaman menu
+- Responsive design (mobile & desktop)
+  
+2. about.html
 
 Deskripsi:
 
@@ -24,11 +24,11 @@ Halaman ini merupakan halaman tentang website yang akan menampilkan deskripsi da
 
 Fitur:
 
-Deskripsi tentang Rumah Makan Sederhana
-Filosofi Rumah Makan Sederhana
-Gambar Rumah Makan Sederhana
-contact.html
+- Deskripsi tentang Rumah Makan Sederhana
+- Filosofi Rumah Makan Sederhana
+- Gambar Rumah Makan Sederhana
 
+3. contact.html
 Deskripsi:
 
 Halaman ini merupakan halaman tentang website yang akan menampilkan deskripsi dari rumah makan sederhana.
@@ -37,11 +37,11 @@ Fitur:
 
 Formulir Kritik dan Saran:
 
-Input nama dari pengguna
-Input email dari pengguna
-Textarea untuk pesan
-Tombol kirim dengan validasi
-Informasi Kontak:
+- Input nama dari pengguna
+- Input email dari pengguna
+- Textarea untuk pesan
+- Tombol kirim dengan validasi
+- Informasi Kontak:
 
 Email dari Rumah Makan Sederhana
 Telepon Rumah Makan Sederhana (Customer Service)
@@ -61,12 +61,12 @@ Fitur:
 
 Menampilkan 24 menu makanan & minuman, setiap menu memiliki:
 
-Gambar produk
-Nama menu
-Harga dalam Rupiah
-Tombol "Tambah" untuk keranjang
-Keranjang Belanja:
+- Gambar produk
+- Nama menu
+- Harga dalam Rupiah
+- Tombol "Tambah" untuk keranjang
 
+Keranjang Belanja:
 Menampilkan item yang ditambahkan
 Tombol +/- untuk mengubah jumlah
 Tombol "Hapus" untuk menghapus item
